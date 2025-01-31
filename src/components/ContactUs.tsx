@@ -9,17 +9,17 @@ export function ContactUs() {
   const contacts = [
     {
       title: "Call Us",
-      href: "tel:+1234567890",
+      href: "tel:636-248-8724",
       icon: <IconPhone color="#0077C0" />,
     },
     {
       title: "Email Us",
-      href: "mailto:contact@example.com",
+      href: "mailto:Drains.plumbingsolutions@gmail.com",
       icon: <IconMail color="#0077C0" />,
     },
     {
       title: "Facebook",
-      href: "https://facebook.com/example",
+      href: "https://www.facebook.com/profile.php?id=61566602241548&mibextid=JRoKGi",
       icon: <IconBrandFacebook color="#0077C0" />,
     },
     {
