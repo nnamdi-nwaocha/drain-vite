@@ -6,7 +6,7 @@ const Hero: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 lg:py-24">
         <div className="lg:grid lg:grid-cols-2 lg:gap-8 items-center">
           <div>
-            <p className="text-5xl sm:text-6xl lg:text-7xl mb-6">⚡️</p>
+            <p className="text-5xl sm:text-6xl lg:text-7xl mb-6">🔧</p>
             <h1 className="text-4xl font-bold text-gray-900 sm:text-5xl lg:text-6xl mb-6">
               Drain-Solutions and Plumbing
             </h1>
